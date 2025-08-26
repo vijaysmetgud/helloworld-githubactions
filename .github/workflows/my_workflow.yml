@@ -3,7 +3,7 @@ name: Hello World Workflow
 
 on:
   push:
-    branches: [ main ]
+    branches: [ vijay ]
 
 jobs:
   hello_vijay:
